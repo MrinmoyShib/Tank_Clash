@@ -128,7 +128,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Aragon-07**
-- GitHub: [@Aragon-07](https://github.com/Aragon-07)
+- GitHub: [@Mrinmoy](https://github.com/MrinmoyShib)
   
 
 ## Project Contributors
