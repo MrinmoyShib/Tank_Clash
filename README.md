@@ -7,7 +7,7 @@ Smooth Graphics: Built with iGraphics for fluid visual experience
 Audio Integration: Immersive sound effects and background music
 Real-time Gameplay: Fast-paced action with responsive controls
 Cross-platform: Runs on Windows systems with proper setup
-🛠 Technologies Used
+🛠️ Technologies Used
 Programming Language: C++
 Graphics Library: iGraphics
 Audio System: Integrated audio support
