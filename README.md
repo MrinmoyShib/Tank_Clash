@@ -127,9 +127,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-- **Mrinmoy Shib**        
-- **Shirsha Chowdhury**          
-- **Naimul Islam Jehan** 
+- **Mrinmoy Shib**
   
 
 ## Project Contributors
