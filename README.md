@@ -127,8 +127,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Aragon-07**
-- GitHub: [@Mrinmoy](https://github.com/MrinmoyShib)
+- **Mrinmoy Shib** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrinmoyShib)
+- **Shirsha Chowdhury** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shirsha-username)
+- **Naimul Islam Jehan** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimul-username)
   
 
 ## Project Contributors
